@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Cameras>
+    <Camera>
+    <name>Nex5 25mm</name>
+    <flen>25</flen>
+    <imgh>3056</imgh>
+    <imgw>4592</imgw>
+    <senh>15.6</senh>
+    <senw>23.4</senw>
+  </Camera>
+  <Camera>
+    <name>Nex5 16mm</name>
+    <flen>16</flen>
+    <imgh>3056</imgh>
+    <imgw>4592</imgw>
+    <senh>15.6</senh>
+    <senw>23.4</senw>
+  </Camera>
+  <Camera>
+    <name>Nex7 16mm</name>
+    <flen>16</flen>
+    <imgh>4000</imgh>
+    <imgw>6000</imgw>
+    <senh>15.6</senh>
+    <senw>23.5</senw>
+  </Camera>
+  <Camera>
+    <name>Canon 5D Mk2</name>
+    <flen>5</flen>
+    <imgh>3744</imgh>
+    <imgw>5616</imgw>
+    <senh>24</senh>
+    <senw>36</senw>
+  </Camera>
+  <Camera>
+    <name>Sony A6000_20mm</name>
+    <flen>20</flen>
+    <imgh>4000</imgh>
+    <imgw>6000</imgw>
+    <senh>15.6</senh>
+    <senw>23.5</senw>
+  </Camera>
+  <Camera>
+    <name>Sony A5100_20mm</name>
+    <flen>20</flen>
+    <imgh>4000</imgh>
+    <imgw>6000</imgw>
+    <senh>15.6</senh>
+    <senw>23.5</senw>
+  </Camera>
+  <Camera>
+    <name>Sony A7R</name>
+    <flen>28</flen>
+    <imgh>4912</imgh>
+    <imgw>7360</imgw>
+    <senh>24.0</senh>
+    <senw>35.9</senw>
+  </Camera>
+  <Camera>
+    <name>GoPro Hero 4 Black Wide</name>
+    <flen>2.46</flen>
+    <imgh>3000</imgh>
+    <imgw>4000</imgw>
+    <senh>4.56</senh>
+    <senw>6.17</senw>
+  </Camera>
+  <Camera>
+    <name>Sony a7R2_35mm</name>
+    <flen>35</flen>
+    <imgh>7952</imgh>
+    <imgw>5304</imgw>
+    <senh>24</senh>
+    <senw>35.9</senw>
+  </Camera>
+  <Camera>
+    <name>Sony RX1RM2</name>
+    <flen>35</flen>
+    <imgh>7952</imgh>
+    <imgw>5304</imgw>
+    <senh>24</senh>
+    <senw>35.9</senw>
+  </Camera>
+ </Cameras>
+
